@@ -2,8 +2,6 @@
 
 **ArthroAI** is a clinical decision support tool that predicts the risk of Rheumatoid Arthritis (RA) using an XGBoost model trained on NHANES data. The interactive Streamlit web application provides real‑time risk assessment, detailed factor analysis, and a downloadable clinical report.
 
-![ArthroAI Screenshot](screenshot.png) <!-- optional: add a screenshot later -->
-
 ## ✨ Features
 
 - **Machine Learning Core** – XGBoost classifier (tuned) achieving research‑grade performance.
